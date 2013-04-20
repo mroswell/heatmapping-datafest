@@ -6,7 +6,7 @@
 
 from transparencydata import TransparencyData
 import sys, getopt
-import requests
+#import requests
 import pprint
 import itertools
 import json
